@@ -1,0 +1,7 @@
+1,TechCorp,Technology,Texas,1;2;3
+2,HealthInc,Healthcare,San Francisco,4;5
+3,EduSolutions,Education,Boston,6;7
+4,EcoGoods,Consumer Goods,Chicago,8
+5,FinGroup,Finance,Los Angeles,9;10
+6,MetaAI,Technology,California,
+7,SomoyTV,Commiunication,Dhaka,12

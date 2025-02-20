@@ -1,0 +1,11 @@
+1,Software Engineer,Develop software solutions,70000,1,open
+2,Data Analyst,Analyze data trends,60000,1,closed
+3,Product Manager,Oversee product development,90000,1,closed
+4,Marketing Specialist,Plan and execute marketing strategies,55000,2,open
+5,Sales Executive,Drive sales efforts,65000,2,open
+6,Graphic Designer,Create visual content,50000,3,closed
+7,Customer Support,Provide customer assistance,40000,3,open
+8,HR Manager,Manage HR activities,80000,4,closed
+9,Content Writer,Write and edit content,45000,5,open
+10,IT Support Specialist,Support IT infrastructure,60000,5,closed
+12,Journalist,Have a skill of spreading rumours properly,20000,7,open
