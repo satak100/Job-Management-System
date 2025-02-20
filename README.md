@@ -45,7 +45,7 @@ cd job-management-system
 
 ### **2️⃣ Compile the Code**  
 ```bash
-g++ -o job_management main.cpp
+g++ -o job_management JobManagement.cpp
 ```
 
 ### **3️⃣ Run the Program**  
@@ -60,21 +60,21 @@ job_management.exe  # For Windows
 
 Below is an image of the **first console page** when running the program.  
 
-!console_output.png
+![Job Management System Console Screenshot](console_output.png)  
 
-_(Replace `console_screenshot.png` with an actual screenshot of your program.)_  
+_(Make sure `console_output.png` exists in the repository for proper display.)_  
 
 ---
 
 ## **📜 File Structure**  
 ```
 📂 job-management-system
- ┣ 📜 main.cpp            # Main source code file
- ┣ 📜 jobs.txt            # Stores job data
- ┣ 📜 companies.txt       # Stores company data
- ┣ 📜 applicants.txt      # Stores applicant data
- ┣ 📜 README.md           # This file
- ┣ 📜 console_screenshot.png  # Screenshot of the first console page
+ ┣ 📜 JobManagement.cpp      # Main source code file
+ ┣ 📜 README.md              # This file
+ ┣ 📜 applicants.txt         # Stores applicant data
+ ┣ 📜 companies.txt          # Stores company data
+ ┣ 📜 console_output.png     # Screenshot of the first console page
+ ┣ 📜 jobs.txt               # Stores job data
 ```
 
 ---
