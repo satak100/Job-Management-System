@@ -60,7 +60,7 @@ job_management.exe  # For Windows
 
 Below is an image of the **first console page** when running the program.  
 
-![Job Management System Console Screenshot](Screenshot 2025-02-20 162211.png)  
+!Screenshot 2025-02-20 162211.png 
 
 _(Replace `console_screenshot.png` with an actual screenshot of your program.)_  
 
